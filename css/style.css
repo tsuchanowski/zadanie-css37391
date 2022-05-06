@@ -1,13 +1,25 @@
-p {
-    background-color: #910a0a;
-    width: 100px;
-    height: 100px;
-    margin: 15px;
+body {
+    background-color: #f5f5dd;
 }
-.niebieski {
-    background-color: blue;
- }
-.widok {
-    opacity: 0.1;
+
+.box {
+    width: 200px;
+    height: 200px;
+    margin: 10px;
 }
- 
+
+.czarny {
+    background-color: rgba(0, 0, 0, 1);
+}
+
+.ciemnoszary {
+    background-color: rgba(0, 0, 0, 0.75);
+}
+
+.szary {
+    background-color: rgba(0, 0, 0, 0.5);
+}
+
+.jasnoszary {
+    background-color: rgba(0, 0, 0, 0.25);
+}
